@@ -174,9 +174,9 @@ export const companyData = {
 
   // Configuración de EmailJS (para el formulario de contacto)
   emailjs: {
-    serviceId: "YOUR_SERVICE_ID", // Reemplazar con tu Service ID
-    templateId: "YOUR_TEMPLATE_ID", // Reemplazar con tu Template ID
-    publicKey: "YOUR_PUBLIC_KEY", // Reemplazar con tu Public Key
+    serviceId: "service_73dzyr7", // Tu Service ID de EmailJS
+    templateId: "template_bosa0ga", // Tu Template ID de EmailJS
+    publicKey: "IHJR_LzQ6ZLe09SZ8", // Tu Public Key de EmailJS
     toEmail: "roncoronit@gmail.com" // Email destino para los mensajes
   },
 

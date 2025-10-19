@@ -25,3 +25,6 @@ export { PricingToggle } from "./pricing-toggle";
 
 // Dashboard Components
 export { DashboardPreview } from "./dashboard-preview";
+
+// Validaciones centralizadas
+export * from "../../lib/validations";
